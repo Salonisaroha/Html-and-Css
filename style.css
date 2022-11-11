@@ -1,0 +1,265 @@
+ 
+{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Playfair Display', serif;
+}
+.square {
+    display : flex;
+}
+
+#boxone{
+    
+    background-color :aquamarine;
+   max-width: 1800px; 
+    height: 900px;
+    text-align: left;
+    
+}
+
+
+
+
+#name {
+    margin-top : 70px;
+    margin-left: 90px;
+}
+#intro {
+    margin-left: 60px;
+    margin-top: 30px;
+margin-right: 50px;
+}
+#button {
+    background-color:cyan;
+    border-radius: 5px;
+    margin-left: 50px;
+    
+}
+
+    
+
+#picture {
+    margin-left: 1200px;
+    width: 250px;
+}
+#para{
+    margin-left: 60px;
+color: coral;
+}
+#color{
+    color: hotpink;
+    margin-left:50px;
+}
+
+
+#main {
+    background-color:burlywood;
+    font-family: 'Poppins', sans-serif;
+}
+#pic{
+    margin-top: 90px;
+    margin-left: 600px;
+    width:20%;
+    height: auto;
+    
+}
+#words {
+    color:brown;
+    margin-top: 30px;
+    margin-left: 90px;
+}
+#para {
+    color:black;
+    margin-top: 10px;
+    margin-left: 90px;
+}
+#services {
+    color:brown;
+    margin-top: 30px;
+    margin-left: 90px;
+}
+#explain{
+    color:black;
+    margin-top: 10px;
+    margin-left:90px;
+
+}
+#location{
+    color:brown;
+    margin-top: 15px;
+    margin-left: 90px;
+}
+#main{
+    color:black;
+    margin-top: 10px;
+    margin-left: 90px;
+
+}
+#through{
+    color: black;
+    margin-top: 10px;
+    margin-left: 90px;
+}
+#time{
+    color:black;
+    margin-top: 10px;
+    margin-left: 90px;
+}
+#galaxy0{
+    background-image:url("https://acegif.com/wp-content/uploads/gifs/starfall-gif-22.gif");
+    background-position:center center;
+    background-size:cover;
+    background-repeat: repeat-x;
+    background-attachment:fixed;
+
+}
+.galaxy{
+    font-size: 40px;
+    font-family: 'Playfair Display', serif;
+    color:azure;
+    margin-top:200px ;
+    text-align: center;
+   
+}
+.various{
+    color:darkkhaki;
+    text-align:center;
+    margin-top: 20px;
+
+}
+#galaxy1{
+    
+   margin:auto;
+   width:210px;
+   padding:15px;
+   
+   border:5px groove azure;
+   
+    
+}
+#galaxy2{
+    margin:auto;
+    width:210px;
+    padding: 15px;
+    border:5px groove azure;
+
+}
+#galaxy3{
+    margin:auto;
+    width:210px;
+    padding: 15px;
+    border:5px groove azure;
+
+}
+#galaxy4{
+     margin:auto;
+    width: 210px;
+    padding: 15px;
+    border:5px groove azure;
+}
+#galaxy5{
+    margin:auto;
+    width:210px;
+    
+    padding: 15px;
+    border:5px groove azure;
+}
+
+#unique{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcuiGl5fkdicDlTCWFAA16pUghQk8hfuyxGA&usqp=CAU");
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#milkyway{
+    color: beige;
+    margin-top: 40px;
+    margin-left:30px ;
+    text-shadow: 3px 2px 2px;
+    line-height: 2.0em;
+    font-size: 3.5rem;
+}
+#milky{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:25px;
+    font-stretch: expanded;
+    margin-left: 30px;
+}
+.b1{
+    background-color: darkturquoise;
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-display: block;
+
+}
+#giphy{
+    float:left;
+    border-style:solid;
+    border-color: cornsilk;
+    border-radius: 10%;
+    width:20%;
+    height:30%;
+    margin-left: 30px;
+}
+#SA{
+    color:red;
+    text-shadow:50%;
+    margin-left:30px;
+}
+#sb{
+    float:center;
+    border-style:solid;
+    border-radius:10%;
+    border-color:cornsilk;
+    width:20%;
+    height:50%;
+    margin-left:100px;
+
+}
+.b2{
+    background-color:rosybrown;
+    color:darkblue;
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-display: block;
+}
+#neb{
+    margin-left: 30px;
+    color:aliceblue;
+
+}
+#ns{
+    margin-left:500px ;
+    border-radius:10%;
+    border-color:red;
+    font-size: 30px;
+}
+#li{
+    color:aliceblue;
+    font-size: 30px;
+    
+}
+#black{
+background-image: url(https://www.gifcen.com/wp-content/uploads/2021/05/black-hole-gif-1.gif);
+background-repeat:no-repeat ;
+width:100%;
+height:auto;
+background-size: 100%;
+}
+#andromeda{
+    background-image: url(https://i.pinimg.com/originals/7c/8f/57/7c8f57b650d1b027f01c5b3ced20d456.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#all{
+    color:darkgoldenrod;
+}
+
+#as{
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
